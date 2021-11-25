@@ -1,1 +1,1 @@
-MFC开发的小游戏--翻转棋
+MFC based on the development of game - flip chess
